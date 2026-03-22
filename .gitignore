@@ -1,5 +1,2 @@
-.python-version
 __pycache__/
 backtests/
-pyproject.toml
-uv.lock
