@@ -6,5 +6,8 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "jsonpickle>=4.1.1",
+    "matplotlib>=3.10.8",
+    "mplfinance>=0.12.10b0",
+    "pandas>=3.0.1",
     "prosperity4bt>=0.0.0",
 ]
