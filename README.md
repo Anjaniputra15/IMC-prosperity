@@ -8,8 +8,9 @@ git clone https://github.com:Anjaniputra15/IMC-prosperity.git
 
 then to use the back tester.
 
+Don't git clone into the repository with the trading bot.
+
 ```
-(dont clone into this repo)
 git clone https://github.com/GeyzsoN/prosperity_rust_backtester 
 cd prosperity_rust_backtester
 make install
