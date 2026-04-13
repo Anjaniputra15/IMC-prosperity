@@ -3,7 +3,7 @@
 Okay to get this running:
 
 ```
-git clone git@github.com:Anjaniputra15/IMC-prosperity.git
+git clone https://github.com:Anjaniputra15/IMC-prosperity.git
 ```
 
 then to use the back tester.
