@@ -28,6 +28,13 @@ then
 rust_backtester --trader <the bot/main.py> --dataset datasets/tutorial/prices_round_0_day_1.csv
 ```
 
+Here is the relative file path setup.  Make sure to change the data for what you need.
+
+```
+rust_backtester --trader main.py --dataset datasets/tutorial/prices_round_0_day_1.csv 
+```
+
+
 You only need to link one prices as it will find the other one (trade/price)
 
 ```
